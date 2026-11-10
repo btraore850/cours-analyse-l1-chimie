@@ -6,6 +6,10 @@ Site de ressources pédagogiques de **M. Bakary TRAORE**, Université de N’Zé
 
 https://btraore850.github.io/cours-analyse-l1-chimie/ (après activation de GitHub Pages)
 
+## Programme du cours
+
+**Mathématiques 1 — Analyse (02-MTH 1102) — 3 ECTS** pour les trois parcours de chimie. Progression pédagogique optimisée en **30 h** et organisée en neuf chapitres : consulter [programme.html](programme.html).
+
 ## Dossiers pédagogiques
 
 - `polycopie-du-cours/` — Polycopié du cours : Cours rédigés par chapitre : définitions, propriétés, méthodes, démonstrations et exemples.
