@@ -8,7 +8,7 @@ https://btraore850.github.io/cours-analyse-l1-chimie/ (après activation de GitH
 
 ## Programme du cours
 
-**Mathématiques 1 — Analyse (02-MTH 1102) — 3 ECTS** pour les trois parcours de chimie. Progression pédagogique optimisée en **30 h** et organisée en neuf chapitres : consulter [programme.html](programme.html).
+**Mathématiques 1 — Analyse (02-MTH 1102) — 3 ECTS** pour les trois parcours de chimie. Programme réparti en **45 heures** (25 h CM, 15 h TD, 5 h TP), sur 15 semaines, avec 9 chapitres. [Consulter le programme détaillé](programme.html).
 
 ## Dossiers pédagogiques
 
