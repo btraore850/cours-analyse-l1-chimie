@@ -29,7 +29,7 @@ function doGet(e) {
     ).setTitle('Évaluations — accès via la plateforme');
   }
   const courseKey=String(e&&e.parameter&&e.parameter.course||'');
-  if(Object.hasOwn(COURSE_CONFIG,courseKey)){
+  if(Object.prototype.hasOwnProperty.call(COURSE_CONFIG,courseKey)){
     const mode=String(e&&e.parameter&&e.parameter.mode||'');
     if(mode==='practice'){
       const bridge=HtmlService.createTemplateFromFile('CourseBridge');
