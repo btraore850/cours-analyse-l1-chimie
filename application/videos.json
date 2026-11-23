@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "chapitres": [
+    {
+      "numero": 1,
+      "titre": "Nombres réels et raisonnement"
+    },
+    {
+      "numero": 2,
+      "titre": "Fonctions numériques d’une variable"
+    },
+    {
+      "numero": 3,
+      "titre": "Suites numériques"
+    },
+    {
+      "numero": 4,
+      "titre": "Limites et continuité"
+    },
+    {
+      "numero": 5,
+      "titre": "Dérivation et étude des fonctions"
+    },
+    {
+      "numero": 6,
+      "titre": "Développements limités et approximations"
+    },
+    {
+      "numero": 7,
+      "titre": "Primitives et intégrales"
+    },
+    {
+      "numero": 8,
+      "titre": "Équations différentielles élémentaires"
+    },
+    {
+      "numero": 9,
+      "titre": "Fonctions de plusieurs variables"
+    }
+  ],
+  "videos": []
+}
