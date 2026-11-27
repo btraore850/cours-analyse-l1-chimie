@@ -38,5 +38,14 @@
       "titre": "Fonctions de plusieurs variables"
     }
   ],
-  "videos": []
+  "videos": [
+    {
+      "id": "video-001",
+      "chapitre": 2,
+      "section": "",
+      "titre": "Applications des fonctions numériques d’une variable en chimie",
+      "url": "https://1drv.ms/v/c/96b64801aa91c5f7/IQBXXfUDKwOqTLN5cBDnqHmmAW3Z_ZZpeizrCozWi2nf1C8?e=ldKsL2",
+      "plateforme": "OneDrive"
+    }
+  ]
 }
